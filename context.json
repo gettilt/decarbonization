@@ -1,0 +1,179 @@
+{
+    "LIN": {
+        "chat_gpt": "Linde is a global leader in industrial gases, including hydrogen, which is essential for decarbonizing heavy industries.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "BLDP": {
+        "chat_gpt": "Ballard Power Systems develops fuel cell technology for heavy-duty applications, offering a zero-emission alternative for industrial processes.",
+        "claude": "Ballard Power Systems develops and manufactures fuel cell products for various applications, including heavy-duty vehicles and industrial power, which can help reduce emissions in heavy industry.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ENPH": {
+        "chat_gpt": "Enphase Energy provides advanced solar energy solutions, which can help heavy industries transition to renewable energy sources.",
+        "claude": "Enphase Energy provides microinverter systems for solar energy installations, which can help heavy industry adopt distributed solar power and reduce emissions.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "FSLR": {
+        "chat_gpt": "First Solar manufactures solar panels, supporting the adoption of renewable energy in heavy industries.",
+        "claude": "First Solar manufactures thin-film solar panels and provides comprehensive solar energy solutions, which can help heavy industry reduce emissions by transitioning to renewable energy.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "BE": {
+        "chat_gpt": "Bloom Energy offers solid oxide fuel cell technology, which can provide clean and efficient energy for industrial applications.",
+        "claude": "Bloom Energy develops and manufactures solid oxide fuel cells that can provide clean, reliable power for industrial applications, helping to reduce emissions from heavy industry.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "PLUG": {
+        "chat_gpt": "Plug Power specializes in hydrogen fuel cell technology, which can be used to power heavy industrial processes with zero emissions.",
+        "claude": "Plug Power is a leading provider of hydrogen fuel cell solutions, which can be used to decarbonize heavy industry by replacing fossil fuels with clean hydrogen energy.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CAT": {
+        "chat_gpt": "Caterpillar is investing in sustainable technologies for heavy machinery, which can help reduce emissions in construction and mining industries.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NEE": {
+        "chat_gpt": "NextEra Energy is a major player in renewable energy, providing clean energy solutions that can help decarbonize heavy industries.",
+        "claude": "NextEra Energy is a leading clean energy company that generates electricity from renewable sources, including wind and solar, which can help decarbonize heavy industry by providing clean power.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DAN": {
+        "chat_gpt": "Dana Incorporated supplies power technologies for industrial applications, including electric and hybrid solutions that reduce emissions.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "FCEL": {
+        "chat_gpt": "FuelCell Energy provides clean energy solutions through fuel cell technology, which can be used to reduce emissions in heavy industries.",
+        "claude": "FuelCell Energy develops and manufactures fuel cell power plants that can provide clean, efficient, and reliable power for industrial applications, helping to reduce emissions from heavy industry.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TSLA": {
+        "chat_gpt": "Tesla is a leader in electric vehicles and energy storage solutions, which are crucial for reducing emissions in heavy industries.",
+        "claude": "Tesla is a leader in electric vehicles and battery technology, which can help decarbonize heavy industry by providing clean energy storage solutions and enabling the electrification of industrial processes.",
+        "search_articles": [
+            {
+                "url": "https://www.green.earth/blog/5-more-companies-committed-to-reduce-their-carbon-footprint",
+                "title": "5 more companies committed to reduce their carbon footprint",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "XOM": {
+        "chat_gpt": "ExxonMobil is investing in carbon capture and storage technologies, which are crucial for reducing emissions in heavy industries.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://corporate.exxonmobil.com/sustainability-and-reports/advancing-climate-solutions",
+                "title": "2024 Advancing Climate Solutions Report",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SEDG": {
+        "chat_gpt": "SolarEdge Technologies provides solar inverters and other solutions that enhance the efficiency of solar energy systems, aiding in industrial decarbonization.",
+        "claude": "SolarEdge Technologies offers power optimizers, solar inverters, and monitoring systems for solar energy installations, which can help heavy industry adopt solar power and reduce emissions.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "GE": {
+        "chat_gpt": "General Electric is involved in renewable energy and grid solutions, which are essential for integrating clean energy into industrial processes.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CRC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FormFore/status/1796950337443471433",
+                "text": "Within the energy sector, 2 of the largest Position Decreases by Corporate Insiders through 2024-05-24 are:\n\nCraine Patrick K., $GPOR: -69% on 2024-05-20 ($10,837,876)\nMcfarland Mark Allen, $CRC: -56% on 2024-05-22 ($8,476,476)",
+                "username": "FormFore",
+                "user_url": "https://twitter.com/FormFore",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1571241569474183169/wkusRnHY_normal.jpg",
+                "date": "2024-06-01T17:02:00Z"
+            },
+            {
+                "url": "https://twitter.com/insider_cyborg/status/1794410362835517928",
+                "text": "\ud83e\udd16 New Regular Insider Purchase\n\nTicker: $CRC\nSector: Energy\nMarket Cap: 3235 mm.\nInsider Title: Director\nTraded Amount: +$18,246\nTrade Date: 2024-05-23 https://t.co/ItEyFXJqWJ",
+                "username": "insider_cyborg",
+                "user_url": "https://twitter.com/insider_cyborg",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1754221805571608576/lc9WNnZH_normal.jpg",
+                "date": "2024-05-25T16:49:03Z"
+            },
+            {
+                "url": "https://twitter.com/PatternsTA/status/1762514464782405718",
+                "text": "$CRC #oilandgas play. Watching for a continuation breakout. Chart looks good. Let that 3y MA catch up some more. Alerts are set. More chart of this sector to come... $XOP #Oil https://t.co/Cb89et2g8o",
+                "username": "PatternsTA",
+                "user_url": "https://twitter.com/PatternsTA",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1671897826610102273/Wa3Mt6OD_normal.jpg",
+                "date": "2024-02-27T16:26:08Z"
+            }
+        ],
+        "experts": []
+    },
+    "PHG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "UL": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ITRI": {
+        "chat_gpt": null,
+        "claude": "Itron provides smart metering and energy management solutions that can help heavy industry monitor and optimize energy consumption, leading to reduced emissions.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "ORA": {
+        "chat_gpt": null,
+        "claude": "Ormat Technologies is a geothermal and recovered energy power company that can provide clean, baseload power to help decarbonize heavy industry.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SPWR": {
+        "chat_gpt": null,
+        "claude": "SunPower Corporation is a solar energy company that provides high-efficiency solar panels and energy storage solutions, which can help heavy industry reduce emissions by adopting renewable energy.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    }
+}
